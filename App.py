@@ -212,15 +212,6 @@ if file is not None:
 
 #####################################################################################################################################
 
-footer = f"Made by **Fabio Scielzo Ortiz**. [Linkedin](https://www.linkedin.com/in/fabio-scielzo-ortiz-00b206211/) | [GitHub](https://github.com/FabioScielzoOrtiz) | [Estadistica4all](https://estadistica4all.com/)"
-st.write(footer, unsafe_allow_html=True)
-
-
-
-    
-
-#####################################################################################################################################
-
 footer = f"Made by **Fabio Scielzo Ortiz**. [Personal Website](http://fabioscielzoortiz.com/)"
 st.write(footer, unsafe_allow_html=True)
 
